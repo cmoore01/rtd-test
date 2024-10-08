@@ -6,3 +6,6 @@
 
    lumache
 ```
+
+.. openapi:: specs/openapi.yml
+
